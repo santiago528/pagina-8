@@ -203,3 +203,19 @@ body{
         background-image: url(Biologia5.jpeg);
     
     }
+
+    .ImgQui{
+
+        height: 267px;
+        width: 343px;
+        background-image: url(Quimica1.jpeg);
+        float:left;
+    }
+    
+    .ImgQui2{
+    
+        height: 208px;
+        width: 343px;
+        background-image: url(Quimica2.jpeg);
+        float:left;
+    }
