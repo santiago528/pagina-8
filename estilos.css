@@ -1,0 +1,34 @@
+/* Temas del segundo período*/
+
+.texto{
+    font-size: 25px;
+    padding-top: 50px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:left;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("colorido.jpg");
+    background-repeat: repeat;
+
+}
+
+.titulo{
+    font-size: 80px;
+    text-align: center;
+    text-shadow: -4px 0 black, 0 1px black, 1px 0 black, 0 -4px black;
+    color: rgba(255, 0, 0, 0.938);
+
+}
+
+.subtitulo{
+
+     font-size: 60px;
+     text-shadow: -1px 0 rgb(255, 255, 255), 0 1px rgb(255, 255, 255), 1px 0 white, 0 -1px white;
+     color: rgb(0, 0, 0);
+     text-align: center;
+}
