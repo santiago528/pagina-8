@@ -159,3 +159,47 @@ body{
         float:left
     
     }
+
+    .ImgBio{
+
+        height: 308px;
+        width: 319px;
+        background-image: url(Biologia1.jpeg);
+        float: left;
+    background-repeat: no-repeat;
+    }
+    
+    .ImgBio2{
+    
+        height: 260px;
+        width: 305px;
+        background-image: url(Biologia2.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+    
+    }
+    
+    .ImgBio3{
+    
+        height: 303px;
+        width: 700px;
+        background-image: url(Biologia3.jpeg);
+    background-repeat: no-repeat;
+    
+    }
+    
+    .ImgBio4{
+    
+        height: 235px;
+        width: 360px;
+        background-image: url(Biologia4.jpeg);
+    
+    }
+    
+    .ImgBio5{
+    
+        height: 230px;
+        width: 303px;
+        background-image: url(Biologia5.jpeg);
+    
+    }
